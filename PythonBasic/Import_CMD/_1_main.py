@@ -1,0 +1,10 @@
+import _1_mymath
+print(_1_mymath.message)
+sum = _1_mymath.sum(0, 1, 2, 3, 4)
+sum_range = _1_mymath.sum_range(1, 10)
+fact = _1_mymath.fact(3)
+print('sum = ', sum)
+print('sum_range = ', sum_range)
+print('fact = ', fact)
+print('Pi = ', _1_mymath.PI)
+print('e = ', _1_mymath.E)
